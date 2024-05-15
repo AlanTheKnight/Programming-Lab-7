@@ -1,0 +1,636 @@
+INFO [15:25:15.385] [server.Main] - Collection has been loaded
+INFO [15:25:15.389] [server.Main] - Commands have been initialized
+INFO [15:25:15.395] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [15:27:57.918] [server.UDPServer] - Received header from client at /127.0.0.1:51581
+INFO [15:27:57.919] [server.UDPServer] - Received data from client at /127.0.0.1:51581
+INFO [15:27:57.935] [server.UDPServer] - Executing command: SHOW
+INFO [15:27:57.952] [server.UDPServer] - Sent response to client at /127.0.0.1:51581
+INFO [15:30:23.313] [server.Main] - Collection has been loaded
+INFO [15:30:23.317] [server.Main] - Commands have been initialized
+INFO [15:30:23.324] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [15:31:13.761] [server.Main] - Collection has been loaded
+INFO [15:31:13.764] [server.Main] - Commands have been initialized
+INFO [15:31:13.770] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [15:31:23.918] [server.UDPServer] - Received header from client at /127.0.0.1:51581
+DEBUG [15:31:23.920] [server.UDPServer] - Expecting data of size 286 bytes from client at /127.0.0.1:51581
+INFO [15:31:23.921] [server.UDPServer] - Received data from client at /127.0.0.1:51581
+INFO [15:31:23.938] [server.UDPServer] - Executing command: SHOW
+INFO [15:31:23.957] [server.UDPServer] - Sent response of 4005 chunks to client at /127.0.0.1:51581
+INFO [15:31:32.984] [server.UDPServer] - Received header from client at /127.0.0.1:51581
+DEBUG [15:31:32.984] [server.UDPServer] - Expecting data of size 3587 bytes from client at /127.0.0.1:51581
+INFO [15:31:32.984] [server.UDPServer] - Received data from client at /127.0.0.1:51581
+INFO [15:31:32.999] [server.UDPServer] - Executing command: INSERT
+INFO [15:31:33.042] [commands.Save] - Collection saved to file
+INFO [15:31:33.043] [server.UDPServer] - Sent response of 361 chunks to client at /127.0.0.1:51581
+INFO [15:31:33.048] [server.UDPServer] - Received header from client at /127.0.0.1:51581
+DEBUG [15:31:33.048] [server.UDPServer] - Expecting data of size 3587 bytes from client at /127.0.0.1:51581
+INFO [15:31:33.048] [server.UDPServer] - Received data from client at /127.0.0.1:51581
+INFO [15:31:33.050] [server.UDPServer] - Executing command: INSERT
+INFO [15:31:33.053] [commands.Save] - Collection saved to file
+INFO [15:31:33.054] [server.UDPServer] - Sent response of 360 chunks to client at /127.0.0.1:51581
+INFO [15:31:33.055] [server.UDPServer] - Received header from client at /127.0.0.1:51581
+DEBUG [15:31:33.055] [server.UDPServer] - Expecting data of size 286 bytes from client at /127.0.0.1:51581
+INFO [15:31:33.055] [server.UDPServer] - Received data from client at /127.0.0.1:51581
+INFO [15:31:33.055] [server.UDPServer] - Executing command: SHOW
+INFO [15:31:33.059] [server.UDPServer] - Sent response of 4342 chunks to client at /127.0.0.1:51581
+INFO [15:33:16.166] [server.Main] - Collection has been loaded
+INFO [15:33:16.170] [server.Main] - Commands have been initialized
+INFO [15:33:16.176] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [15:33:19.416] [server.UDPServer] - Received header from client at /127.0.0.1:38660
+DEBUG [15:33:19.419] [server.UDPServer] - Expecting data of size 286 bytes from client at /127.0.0.1:38660
+INFO [15:33:19.420] [server.UDPServer] - Received data from client at /127.0.0.1:38660
+INFO [15:33:19.439] [server.UDPServer] - Executing command: SHOW
+INFO [15:33:19.457] [server.UDPServer] - Sent response of 4.0 chunks to client at /127.0.0.1:38660
+INFO [15:34:17.327] [server.Main] - Collection has been loaded
+INFO [15:34:17.331] [server.Main] - Commands have been initialized
+INFO [15:34:17.338] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [15:34:27.401] [server.UDPServer] - Received header from client at /127.0.0.1:38660
+DEBUG [15:34:27.403] [server.UDPServer] - Expecting data of size 286 bytes from client at /127.0.0.1:38660
+INFO [15:34:27.403] [server.UDPServer] - Received data from client at /127.0.0.1:38660
+INFO [15:34:27.423] [server.UDPServer] - Executing command: SHOW
+INFO [15:34:27.445] [server.UDPServer] - Sent response of 4 chunks to client at /127.0.0.1:38660
+ERROR [15:36:37.398] [server.Main] - Failed to read collection from file: Ошибка при чтении XML: Premature end of file.
+INFO [15:36:47.045] [server.Main] - Collection has been loaded
+INFO [15:36:47.049] [server.Main] - Commands have been initialized
+INFO [15:36:47.055] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [16:25:20.744] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [16:25:20.778] [server.Main] - Collection has been loaded
+INFO [16:25:20.781] [server.Main] - Commands have been initialized
+INFO [16:25:20.787] [server.UDPServer] - Server started on /127.0.0.1:9000
+ERROR [16:38:46.826] [server.DatabaseConnectionManager] - Failed to connect to database: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+INFO [16:38:46.853] [server.Main] - Collection has been loaded
+INFO [16:38:46.857] [server.Main] - Commands have been initialized
+INFO [16:38:46.862] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [16:39:04.697] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [16:39:07.967] [server.DatabaseConnectionManager] - Connected to database: jdbc:postgresql://localhost:5432/studs
+INFO [16:39:08.017] [server.Main] - Collection has been loaded
+INFO [16:39:08.022] [server.Main] - Commands have been initialized
+INFO [16:39:08.032] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [17:19:23.093] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:19:25.656] [server.DBConnectionManager] - Connected to database: jdbc:postgresql://localhost:5432/studs
+INFO [17:19:25.658] [server.Main] - Connected to database
+INFO [17:19:25.679] [server.Main] - Collection has been loaded
+INFO [17:19:25.682] [server.Main] - Commands have been initialized
+INFO [17:19:25.686] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [17:19:54.298] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:19:57.168] [server.DBConnectionManager] - Connected to database: jdbc:postgresql://localhost:5432/studs
+INFO [17:19:57.170] [server.Main] - Connected to database
+INFO [17:19:57.209] [server.Main] - Collection has been loaded
+INFO [17:19:57.214] [server.Main] - Commands have been initialized
+INFO [17:19:57.223] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [17:27:31.085] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:27:33.105] [server.Main] - Connected to database: jdbc:postgresql://localhost:5432/studs
+ERROR [17:27:33.121] [server.Main] - Failed to create person: This connection has been closed.
+INFO [17:28:03.447] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:28:06.281] [server.Main] - Connected to database: jdbc:postgresql://localhost:5432/studs
+ERROR [17:28:06.296] [server.Main] - Failed to create person: This connection has been closed.
+INFO [17:29:45.755] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:29:48.084] [server.Main] - Connected to database: jdbc:postgresql://localhost:5432/studs
+ERROR [17:29:48.255] [server.Main] - Failed to create person: ERROR: column "hair_color" is of type hair_color_t but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 79
+INFO [17:33:35.936] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:33:39.572] [server.Main] - Connected to database: jdbc:postgresql://localhost:5432/studs
+ERROR [17:33:39.863] [server.Main] - Failed to create person: ERROR: syntax error at or near "::"
+  Position: 48
+INFO [17:34:12.184] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [17:34:13.536] [server.Main] - Connected to database: jdbc:postgresql://localhost:5432/studs
+INFO [17:34:13.777] [server.Main] - Person has been created: 1
+INFO [21:57:47.832] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [22:26:01.822] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+ERROR [22:26:05.402] [server.Main] - Can't infer the SQL type to use for an instance of alantheknight.lab6.common.models.Coordinates. Use setObject() with an explicit Types value to specify the type to use.
+INFO [22:28:03.390] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+ERROR [22:28:10.967] [server.Main] - Can't infer the SQL type to use for an instance of alantheknight.lab6.common.models.Coordinates. Use setObject() with an explicit Types value to specify the type to use.
+INFO [22:35:21.418] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+ERROR [22:35:24.817] [server.Main] - Can't infer the SQL type to use for an instance of alantheknight.lab6.common.models.Coordinates$SQLCoordinateType. Use setObject() with an explicit Types value to specify the type to use.
+INFO [22:37:55.943] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+ERROR [22:38:00.453] [server.Main] - ERROR: malformed record literal: "alantheknight.lab6.common.models.Coordinates$SQLCoordinateType@4bff64c2"
+  Detail: Missing left parenthesis.
+  Where: unnamed portal parameter $2 = '...'
+INFO [22:39:47.429] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [23:25:28.322] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [23:25:59.383] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [23:26:29.887] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [23:27:15.436] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [23:27:43.289] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [23:29:06.793] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+ERROR [23:29:13.065] [server.Main] - ERROR: null value in column "id" of relation "workers" violates not-null constraint
+  Detail: Failing row contains (null, Max, null, (0,0), 1000, 2024-05-13, DEVELOPER, RECOMMENDED_FOR_PROMOTION, 5, 2024-05-13 23:29:12.906636).
+INFO [23:33:23.740] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:10:14.525] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:10:16.243] [server.Main] - Collection has been loaded
+DEBUG [01:10:16.244] [server.Main] - {}
+INFO [01:10:16.250] [server.Main] - Commands have been initialized
+INFO [01:17:27.305] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:17:29.022] [server.Main] - Collection has been loaded
+DEBUG [01:17:29.024] [server.Main] - {}
+INFO [01:17:29.030] [server.Main] - Commands have been initialized
+INFO [01:39:05.603] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:39:10.024] [server.Main] - Collection has been loaded
+DEBUG [01:39:10.026] [server.Main] - {}
+INFO [01:39:10.032] [server.Main] - Commands have been initialized
+ERROR [01:42:37.752] [server.Main] - Failed to create SSH tunnel: Failed to create SSH tunnel: java.net.UnknownHostException: helios.se.ifmo.ru
+INFO [01:42:45.737] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:42:49.651] [server.Main] - Collection has been loaded
+DEBUG [01:42:49.653] [server.Main] - {}
+INFO [01:42:49.657] [server.Main] - Commands have been initialized
+INFO [01:51:46.073] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:51:50.208] [server.Main] - Collection has been loaded
+DEBUG [01:51:50.210] [server.Main] - {}
+INFO [01:51:50.216] [server.Main] - Commands have been initialized
+INFO [01:52:18.118] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:52:24.222] [server.Main] - Collection has been loaded
+DEBUG [01:52:24.223] [server.Main] - {}
+INFO [01:52:24.229] [server.Main] - Commands have been initialized
+INFO [01:53:47.283] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:53:50.024] [server.Main] - Collection has been loaded
+DEBUG [01:53:50.025] [server.Main] - {}
+INFO [01:53:50.031] [server.Main] - Commands have been initialized
+INFO [01:57:49.735] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:57:55.484] [server.Main] - Commands have been initialized
+INFO [02:12:58.517] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:13:03.370] [server.Main] - Commands have been initialized
+INFO [02:28:22.666] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:28:26.195] [server.Main] - Collection has been loaded
+INFO [02:28:26.197] [server.Main] - Commands have been initialized
+INFO [02:28:44.467] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:28:46.570] [server.Main] - Collection has been loaded
+INFO [02:28:46.576] [server.Main] - Commands have been initialized
+INFO [14:23:47.629] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:23:50.701] [server.Main] - Commands have been initialized
+INFO [14:34:55.965] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:35:00.168] [server.Main] - Commands have been initialized
+INFO [14:35:29.980] [server.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:35:32.839] [server.Main] - Commands have been initialized
+INFO [00:29:39.214] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [00:29:41.628] [server.Main] - Collection has been loaded from the database
+INFO [00:29:41.634] [server.Main] - Commands have been initialized
+INFO [00:30:40.192] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [00:30:42.812] [server.Main] - Collection has been loaded from the database
+INFO [00:30:42.817] [server.Main] - Commands have been initialized
+INFO [00:32:59.005] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [00:33:02.591] [server.Main] - Collection has been loaded from the database
+INFO [00:33:02.597] [server.Main] - Commands have been initialized
+INFO [00:34:42.625] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [00:34:45.805] [server.Main] - Collection has been loaded from the database
+INFO [00:34:45.812] [server.Main] - Commands have been initialized
+INFO [00:34:45.823] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [00:34:58.269] [server.UDPServer] - Received header from client at /127.0.0.1:56868
+DEBUG [00:34:58.270] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:56868
+INFO [00:34:58.271] [server.UDPServer] - Received data from client at /127.0.0.1:56868
+INFO [00:34:58.311] [server.UDPServer] - Executing command: SHOW
+INFO [00:34:58.325] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:56868
+INFO [00:39:25.769] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [00:39:29.469] [server.Main] - Collection has been loaded from the database
+INFO [00:39:29.476] [server.Main] - Commands have been initialized
+INFO [00:39:29.487] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [00:42:18.529] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [00:42:21.641] [server.Main] - Collection has been loaded from the database
+INFO [00:42:21.647] [server.Main] - Commands have been initialized
+INFO [00:42:21.656] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [00:45:24.440] [server.UDPServer] - Received header from client at /127.0.0.1:57091
+DEBUG [00:45:24.440] [server.UDPServer] - Expecting data of size 672 bytes from client at /127.0.0.1:57091
+INFO [00:45:24.441] [server.UDPServer] - Received data from client at /127.0.0.1:57091
+INFO [00:45:24.483] [server.UDPServer] - Executing command: LOGIN
+INFO [00:45:28.130] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:57091
+INFO [00:46:42.465] [server.UDPServer] - Received header from client at /127.0.0.1:51140
+DEBUG [00:46:42.466] [server.UDPServer] - Expecting data of size 684 bytes from client at /127.0.0.1:51140
+INFO [00:46:42.466] [server.UDPServer] - Received data from client at /127.0.0.1:51140
+INFO [00:46:42.467] [server.UDPServer] - Executing command: REGISTER
+INFO [00:46:45.608] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:51140
+INFO [00:46:52.398] [server.UDPServer] - Received header from client at /127.0.0.1:51140
+DEBUG [00:46:52.399] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:51140
+INFO [00:46:52.400] [server.UDPServer] - Received data from client at /127.0.0.1:51140
+INFO [00:46:52.401] [server.UDPServer] - Executing command: SHOW
+INFO [00:46:54.611] [server.UDPServer] - Sent response of 4 chunks to client at /127.0.0.1:51140
+INFO [00:48:12.432] [server.UDPServer] - Received header from client at /127.0.0.1:51140
+DEBUG [00:48:12.433] [server.UDPServer] - Expecting data of size 4132 bytes from client at /127.0.0.1:51140
+INFO [00:48:12.433] [server.UDPServer] - Received data from client at /127.0.0.1:51140
+INFO [00:48:12.444] [server.UDPServer] - Executing command: INSERT
+INFO [00:48:24.401] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:51140
+INFO [00:48:40.135] [server.UDPServer] - Received header from client at /127.0.0.1:48890
+DEBUG [00:48:40.136] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:48890
+INFO [00:48:40.137] [server.UDPServer] - Received data from client at /127.0.0.1:48890
+INFO [00:48:40.138] [server.UDPServer] - Executing command: SHOW
+INFO [00:48:40.140] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:48890
+INFO [00:48:54.086] [server.UDPServer] - Received header from client at /127.0.0.1:48890
+DEBUG [00:48:54.087] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:48890
+INFO [00:48:54.087] [server.UDPServer] - Received data from client at /127.0.0.1:48890
+INFO [00:48:54.088] [server.UDPServer] - Executing command: LOGIN
+INFO [00:48:56.265] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:48890
+INFO [00:49:01.083] [server.UDPServer] - Received header from client at /127.0.0.1:48890
+DEBUG [00:49:01.083] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:48890
+INFO [00:49:01.084] [server.UDPServer] - Received data from client at /127.0.0.1:48890
+INFO [00:49:01.085] [server.UDPServer] - Executing command: SHOW
+INFO [00:49:03.970] [server.UDPServer] - Sent response of 4 chunks to client at /127.0.0.1:48890
+INFO [00:50:21.113] [server.UDPServer] - Received header from client at /127.0.0.1:48890
+DEBUG [00:50:21.113] [server.UDPServer] - Expecting data of size 733 bytes from client at /127.0.0.1:48890
+INFO [00:50:21.114] [server.UDPServer] - Received data from client at /127.0.0.1:48890
+INFO [00:50:21.115] [server.UDPServer] - Executing command: FILTER_BY_END_DATE
+INFO [00:50:25.355] [server.UDPServer] - Sent response of 4 chunks to client at /127.0.0.1:48890
+INFO [00:50:46.106] [server.UDPServer] - Received header from client at /127.0.0.1:48890
+DEBUG [00:50:46.106] [server.UDPServer] - Expecting data of size 733 bytes from client at /127.0.0.1:48890
+INFO [00:50:46.107] [server.UDPServer] - Received data from client at /127.0.0.1:48890
+INFO [00:50:46.108] [server.UDPServer] - Executing command: FILTER_BY_END_DATE
+INFO [00:50:50.627] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:48890
+INFO [01:38:32.937] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:38:36.625] [server.Main] - Collection has been loaded from the database
+INFO [01:38:36.634] [server.Main] - Commands have been initialized
+INFO [01:38:36.645] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [01:38:49.154] [server.UDPServer] - Received header from client at /127.0.0.1:39090
+DEBUG [01:38:49.155] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:39090
+INFO [01:38:49.156] [server.UDPServer] - Received data from client at /127.0.0.1:39090
+INFO [01:38:49.188] [server.UDPServer] - Executing command: SHOW
+INFO [01:38:49.197] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:39090
+INFO [01:39:02.118] [server.UDPServer] - Received header from client at /127.0.0.1:39090
+DEBUG [01:39:02.118] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:39090
+INFO [01:39:02.119] [server.UDPServer] - Received data from client at /127.0.0.1:39090
+INFO [01:39:02.125] [server.UDPServer] - Executing command: LOGIN
+INFO [01:39:04.246] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:39090
+INFO [01:39:08.114] [server.UDPServer] - Received header from client at /127.0.0.1:39090
+DEBUG [01:39:08.115] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:39090
+INFO [01:39:08.116] [server.UDPServer] - Received data from client at /127.0.0.1:39090
+INFO [01:39:08.118] [server.UDPServer] - Executing command: SHOW
+INFO [01:39:10.763] [server.UDPServer] - Sent response of 4 chunks to client at /127.0.0.1:39090
+INFO [01:40:05.141] [server.UDPServer] - Received header from client at /127.0.0.1:39090
+DEBUG [01:40:05.142] [server.UDPServer] - Expecting data of size 4155 bytes from client at /127.0.0.1:39090
+INFO [01:40:05.143] [server.UDPServer] - Received data from client at /127.0.0.1:39090
+INFO [01:40:05.155] [server.UDPServer] - Executing command: INSERT
+INFO [01:40:21.600] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:39090
+INFO [01:47:26.215] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [01:47:29.153] [server.Main] - Collection has been loaded from the database
+INFO [01:47:29.160] [server.Main] - Commands have been initialized
+INFO [01:47:29.170] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [01:48:04.081] [server.UDPServer] - Received header from client at /127.0.0.1:38876
+DEBUG [01:48:04.082] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:38876
+INFO [01:48:04.083] [server.UDPServer] - Received data from client at /127.0.0.1:38876
+INFO [01:48:04.115] [server.UDPServer] - Executing command: LOGIN
+INFO [01:48:09.295] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:38876
+INFO [01:50:52.202] [server.UDPServer] - Received header from client at /127.0.0.1:45916
+DEBUG [01:50:52.203] [server.UDPServer] - Expecting data of size 3863 bytes from client at /127.0.0.1:45916
+INFO [01:50:52.203] [server.UDPServer] - Received data from client at /127.0.0.1:45916
+INFO [01:50:52.235] [server.UDPServer] - Executing command: INSERT
+INFO [01:50:52.237] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:45916
+INFO [01:51:54.227] [server.UDPServer] - Received header from client at /127.0.0.1:50330
+DEBUG [01:51:54.228] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:50330
+INFO [01:51:54.229] [server.UDPServer] - Received data from client at /127.0.0.1:50330
+INFO [01:51:54.230] [server.UDPServer] - Executing command: LOGIN
+INFO [01:51:57.243] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:50330
+INFO [01:51:57.326] [server.UDPServer] - Received header from client at /127.0.0.1:50330
+DEBUG [01:51:57.326] [server.UDPServer] - Expecting data of size 3993 bytes from client at /127.0.0.1:50330
+INFO [01:51:57.326] [server.UDPServer] - Received data from client at /127.0.0.1:50330
+INFO [01:51:57.330] [server.UDPServer] - Executing command: INSERT
+INFO [01:52:06.705] [managers.DBManager] - Worker created with ID: 10
+INFO [01:52:10.672] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:50330
+INFO [01:56:21.902] [server.UDPServer] - Received header from client at /127.0.0.1:55763
+DEBUG [01:56:21.902] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:55763
+INFO [01:56:21.903] [server.UDPServer] - Received data from client at /127.0.0.1:55763
+INFO [01:56:21.904] [server.UDPServer] - Executing command: LOGIN
+INFO [01:56:24.802] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55763
+INFO [01:56:24.911] [server.UDPServer] - Received header from client at /127.0.0.1:55763
+DEBUG [01:56:24.912] [server.UDPServer] - Expecting data of size 3993 bytes from client at /127.0.0.1:55763
+INFO [01:56:24.912] [server.UDPServer] - Received data from client at /127.0.0.1:55763
+INFO [01:56:24.918] [server.UDPServer] - Executing command: INSERT
+INFO [01:56:31.927] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55763
+INFO [01:57:16.814] [server.UDPServer] - Received header from client at /127.0.0.1:55763
+DEBUG [01:57:16.814] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:55763
+INFO [01:57:16.815] [server.UDPServer] - Received data from client at /127.0.0.1:55763
+INFO [01:57:16.816] [server.UDPServer] - Executing command: LOGIN
+INFO [01:57:20.631] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55763
+INFO [01:57:20.634] [server.UDPServer] - Received header from client at /127.0.0.1:55763
+DEBUG [01:57:20.634] [server.UDPServer] - Expecting data of size 3993 bytes from client at /127.0.0.1:55763
+INFO [01:57:20.635] [server.UDPServer] - Received data from client at /127.0.0.1:55763
+INFO [01:57:20.639] [server.UDPServer] - Executing command: INSERT
+INFO [01:57:26.673] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55763
+INFO [01:57:37.358] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:57:37.359] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:55042
+INFO [01:57:37.359] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:57:37.360] [server.UDPServer] - Executing command: LOGIN
+INFO [01:57:39.152] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [01:57:39.238] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:57:39.238] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:55042
+INFO [01:57:39.238] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:57:39.241] [server.UDPServer] - Executing command: INSERT
+INFO [01:57:46.156] [managers.DBManager] - Worker created with ID: 12
+INFO [01:57:49.195] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [01:57:49.200] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:57:49.201] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:55042
+INFO [01:57:49.201] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:57:49.203] [server.UDPServer] - Executing command: INSERT
+INFO [01:57:58.203] [managers.DBManager] - Worker created with ID: 8
+INFO [01:58:01.170] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [01:58:52.329] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:58:52.329] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:55042
+INFO [01:58:52.330] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:58:52.331] [server.UDPServer] - Executing command: CLEAR
+INFO [01:59:03.614] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [01:59:13.332] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:59:13.333] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:55042
+INFO [01:59:13.333] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:59:13.334] [server.UDPServer] - Executing command: CLEAR
+INFO [01:59:22.787] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [01:59:22.788] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:59:22.788] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:55042
+INFO [01:59:22.788] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:59:22.789] [server.UDPServer] - Executing command: SHOW
+INFO [01:59:26.476] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [01:59:26.476] [server.UDPServer] - Received header from client at /127.0.0.1:55042
+DEBUG [01:59:26.477] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:55042
+INFO [01:59:26.477] [server.UDPServer] - Received data from client at /127.0.0.1:55042
+INFO [01:59:26.478] [server.UDPServer] - Executing command: SHOW
+INFO [01:59:30.460] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:55042
+INFO [02:00:06.327] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:00:09.488] [server.Main] - Collection has been loaded from the database
+INFO [02:00:09.494] [server.Main] - Commands have been initialized
+INFO [02:00:09.503] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [02:00:42.835] [server.UDPServer] - Received header from client at /127.0.0.1:43353
+DEBUG [02:00:42.836] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:43353
+INFO [02:00:42.836] [server.UDPServer] - Received data from client at /127.0.0.1:43353
+INFO [02:00:42.866] [server.UDPServer] - Executing command: LOGIN
+INFO [02:00:45.428] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:43353
+INFO [02:00:45.442] [server.UDPServer] - Received header from client at /127.0.0.1:43353
+DEBUG [02:00:45.442] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:43353
+INFO [02:00:45.443] [server.UDPServer] - Received data from client at /127.0.0.1:43353
+INFO [02:00:45.443] [server.UDPServer] - Executing command: CLEAR
+INFO [02:00:56.564] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:43353
+INFO [02:07:15.160] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:07:18.900] [server.Main] - Collection has been loaded from the database
+INFO [02:07:18.905] [server.Main] - Commands have been initialized
+INFO [02:07:18.913] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [02:07:29.583] [server.UDPServer] - Received header from client at /127.0.0.1:42794
+DEBUG [02:07:29.583] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:42794
+INFO [02:07:29.584] [server.UDPServer] - Received data from client at /127.0.0.1:42794
+INFO [02:07:29.598] [server.UDPServer] - Executing command: LOGIN
+INFO [02:07:31.897] [server.UDPServer] - Sent header package
+INFO [02:07:31.899] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:42794
+INFO [02:07:31.916] [server.UDPServer] - Received header from client at /127.0.0.1:42794
+DEBUG [02:07:31.917] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:42794
+INFO [02:07:31.917] [server.UDPServer] - Received data from client at /127.0.0.1:42794
+INFO [02:07:31.918] [server.UDPServer] - Executing command: CLEAR
+INFO [02:07:41.929] [server.UDPServer] - Sent header package
+INFO [02:07:41.929] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:42794
+INFO [02:08:59.560] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:09:05.197] [server.Main] - Collection has been loaded from the database
+INFO [02:09:05.202] [server.Main] - Commands have been initialized
+INFO [02:09:05.209] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [02:09:15.790] [server.UDPServer] - Received header from client at /127.0.0.1:59755
+DEBUG [02:09:15.791] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:59755
+INFO [02:09:15.791] [server.UDPServer] - Received data from client at /127.0.0.1:59755
+INFO [02:09:15.819] [server.UDPServer] - Executing command: LOGIN
+INFO [02:09:19.631] [server.UDPServer] - Sent header package
+INFO [02:09:19.635] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:59755
+INFO [02:09:19.646] [server.UDPServer] - Received header from client at /127.0.0.1:59755
+DEBUG [02:09:19.646] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:59755
+INFO [02:09:19.647] [server.UDPServer] - Received data from client at /127.0.0.1:59755
+INFO [02:09:19.648] [server.UDPServer] - Executing command: CLEAR
+INFO [02:09:32.324] [server.UDPServer] - Sent header package
+INFO [02:09:32.324] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:59755
+INFO [02:09:32.364] [server.UDPServer] - Received header from client at /127.0.0.1:59755
+DEBUG [02:09:32.365] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:59755
+INFO [02:09:32.365] [server.UDPServer] - Received data from client at /127.0.0.1:59755
+INFO [02:09:32.390] [server.UDPServer] - Executing command: INSERT
+INFO [02:09:45.732] [managers.DBManager] - Worker created with ID: 12
+INFO [02:09:49.590] [server.UDPServer] - Sent header package
+INFO [02:09:49.590] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:59755
+INFO [02:09:49.593] [server.UDPServer] - Received header from client at /127.0.0.1:59755
+DEBUG [02:09:49.593] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:59755
+INFO [02:09:49.594] [server.UDPServer] - Received data from client at /127.0.0.1:59755
+INFO [02:09:49.596] [server.UDPServer] - Executing command: INSERT
+INFO [02:09:56.795] [managers.DBManager] - Worker created with ID: 8
+INFO [02:09:59.355] [server.UDPServer] - Sent header package
+INFO [02:09:59.355] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:59755
+INFO [02:09:59.356] [server.UDPServer] - Received header from client at /127.0.0.1:59755
+DEBUG [02:09:59.357] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:59755
+INFO [02:09:59.358] [server.UDPServer] - Received data from client at /127.0.0.1:59755
+INFO [02:09:59.358] [server.UDPServer] - Executing command: SHOW
+INFO [02:10:02.751] [server.UDPServer] - Sent header package
+INFO [02:10:02.751] [server.UDPServer] - Sent response of 5 chunks to client at /127.0.0.1:59755
+INFO [02:13:26.238] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [02:13:28.283] [server.Main] - Collection has been loaded from the database
+INFO [02:13:28.285] [server.Main] - Commands have been initialized
+INFO [02:13:28.290] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [02:13:32.975] [server.UDPServer] - Received header from client at /127.0.0.1:44459
+DEBUG [02:13:32.976] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:44459
+INFO [02:13:32.976] [server.UDPServer] - Received data from client at /127.0.0.1:44459
+INFO [02:13:33.013] [server.UDPServer] - Executing command: LOGIN
+INFO [02:13:35.743] [server.UDPServer] - Sent header package
+INFO [02:13:35.748] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:44459
+INFO [02:13:35.762] [server.UDPServer] - Received header from client at /127.0.0.1:44459
+DEBUG [02:13:35.762] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:44459
+INFO [02:13:35.763] [server.UDPServer] - Received data from client at /127.0.0.1:44459
+INFO [02:13:35.765] [server.UDPServer] - Executing command: CLEAR
+INFO [02:13:43.725] [server.UDPServer] - Sent header package
+INFO [02:13:43.725] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:44459
+INFO [02:13:43.764] [server.UDPServer] - Received header from client at /127.0.0.1:44459
+DEBUG [02:13:43.764] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:44459
+INFO [02:13:43.765] [server.UDPServer] - Received data from client at /127.0.0.1:44459
+INFO [02:13:43.791] [server.UDPServer] - Executing command: INSERT
+INFO [02:13:50.584] [managers.DBManager] - Worker created with ID: 12
+INFO [02:13:53.351] [server.UDPServer] - Sent header package
+INFO [02:13:53.352] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:44459
+INFO [02:13:53.358] [server.UDPServer] - Received header from client at /127.0.0.1:44459
+DEBUG [02:13:53.359] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:44459
+INFO [02:13:53.359] [server.UDPServer] - Received data from client at /127.0.0.1:44459
+INFO [02:13:53.361] [server.UDPServer] - Executing command: INSERT
+INFO [02:14:01.439] [managers.DBManager] - Worker created with ID: 8
+INFO [02:14:04.518] [server.UDPServer] - Sent header package
+INFO [02:14:04.519] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:44459
+INFO [02:14:04.521] [server.UDPServer] - Received header from client at /127.0.0.1:44459
+DEBUG [02:14:04.522] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:44459
+INFO [02:14:04.522] [server.UDPServer] - Received data from client at /127.0.0.1:44459
+INFO [02:14:04.523] [server.UDPServer] - Executing command: SHOW
+INFO [02:14:08.011] [server.UDPServer] - Sent header package
+INFO [02:14:08.012] [server.UDPServer] - Sent response of 5 chunks to client at /127.0.0.1:44459
+INFO [02:16:09.011] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:09.012] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:41793
+INFO [02:16:09.012] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:09.013] [server.UDPServer] - Executing command: SHOW
+INFO [02:16:09.014] [server.UDPServer] - Sent header package
+INFO [02:16:09.015] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [02:16:13.973] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:13.974] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:41793
+INFO [02:16:13.974] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:13.975] [server.UDPServer] - Executing command: LOGIN
+INFO [02:16:16.922] [server.UDPServer] - Sent header package
+INFO [02:16:16.923] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [02:16:16.924] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:16.925] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:41793
+INFO [02:16:16.925] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:16.926] [server.UDPServer] - Executing command: CLEAR
+INFO [02:16:30.442] [server.UDPServer] - Sent header package
+INFO [02:16:30.443] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [02:16:30.483] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:30.484] [server.UDPServer] - Expecting data of size 3988 bytes from client at /127.0.0.1:41793
+INFO [02:16:30.484] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:30.489] [server.UDPServer] - Executing command: INSERT
+INFO [02:16:39.145] [managers.DBManager] - Worker created with ID: 12
+INFO [02:16:42.255] [server.UDPServer] - Sent header package
+INFO [02:16:42.255] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [02:16:42.257] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:42.257] [server.UDPServer] - Expecting data of size 675 bytes from client at /127.0.0.1:41793
+INFO [02:16:42.257] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:42.258] [server.UDPServer] - Executing command: REGISTER
+INFO [02:16:43.182] [server.UDPServer] - Sent header package
+INFO [02:16:43.182] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [02:16:43.185] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:43.185] [server.UDPServer] - Expecting data of size 3979 bytes from client at /127.0.0.1:41793
+INFO [02:16:43.185] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:43.189] [server.UDPServer] - Executing command: INSERT
+INFO [02:16:46.276] [managers.DBManager] - Worker created with ID: 8
+INFO [02:16:48.871] [server.UDPServer] - Sent header package
+INFO [02:16:48.871] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [02:16:48.872] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:48.872] [server.UDPServer] - Expecting data of size 671 bytes from client at /127.0.0.1:41793
+INFO [02:16:48.873] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:48.873] [server.UDPServer] - Executing command: SHOW
+INFO [02:16:53.378] [server.UDPServer] - Sent header package
+INFO [02:16:53.378] [server.UDPServer] - Sent response of 5 chunks to client at /127.0.0.1:41793
+INFO [02:16:53.396] [server.UDPServer] - Received header from client at /127.0.0.1:41793
+DEBUG [02:16:53.397] [server.UDPServer] - Expecting data of size 753 bytes from client at /127.0.0.1:41793
+INFO [02:16:53.397] [server.UDPServer] - Received data from client at /127.0.0.1:41793
+INFO [02:16:53.397] [server.UDPServer] - Executing command: REMOVE_KEY
+INFO [02:17:01.055] [server.UDPServer] - Sent header package
+INFO [02:17:01.056] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:41793
+INFO [12:49:37.787] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [12:49:42.099] [server.Main] - Collection has been loaded from the database
+INFO [12:49:42.106] [server.Main] - Commands have been initialized
+INFO [12:49:42.118] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [12:49:56.830] [server.UDPServer] - Received header from client at /127.0.0.1:46304
+INFO [12:49:56.830] [server.UDPServer] - Received header from client at /127.0.0.1:46304
+DEBUG [12:49:56.832] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:46304
+INFO [12:52:13.685] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [12:52:17.173] [server.Main] - Collection has been loaded from the database
+INFO [12:52:17.180] [server.Main] - Commands have been initialized
+INFO [12:52:17.193] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [12:52:25.397] [server.UDPServer] - Received header from client at /127.0.0.1:39140
+INFO [12:52:25.398] [server.UDPServer] - Received header from client at /127.0.0.1:39140
+DEBUG [12:52:25.400] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:39140
+INFO [12:54:15.953] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [12:54:19.130] [server.Main] - Collection has been loaded from the database
+INFO [12:54:19.137] [server.Main] - Commands have been initialized
+INFO [12:54:19.150] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [12:54:25.359] [server.UDPServer] - Received header from client at /127.0.0.1:39140
+DEBUG [12:54:25.360] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:39140
+INFO [12:54:25.359] [server.UDPServer] - Received header from client at /127.0.0.1:39140
+INFO [12:55:44.130] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [12:55:47.989] [server.Main] - Collection has been loaded from the database
+INFO [12:55:47.993] [server.Main] - Commands have been initialized
+INFO [12:55:48.002] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [12:55:53.173] [server.UDPServer] - Received header from client at /127.0.0.1:48150
+DEBUG [12:55:53.175] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:48150
+INFO [12:55:53.174] [server.UDPServer] - Received header from client at /127.0.0.1:48150
+ERROR [12:55:53.176] [server.UDPServer] - Invalid data size received: -1393754107
+INFO [13:07:15.658] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [13:07:18.493] [server.Main] - Collection has been loaded from the database
+INFO [13:07:18.500] [server.Main] - Commands have been initialized
+INFO [13:07:18.509] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [13:07:27.796] [server.UDPServer] - Received header from client at /127.0.0.1:53398
+INFO [13:07:27.797] [server.UDPServer] - Received header from client at /127.0.0.1:53398
+ERROR [13:07:27.797] [server.UDPServer] - Invalid data size received from client at /127.0.0.1:53398: -1393754107
+INFO [13:07:27.798] [server.UDPServer] - Received data from client at /127.0.0.1:53398
+INFO [13:55:30.636] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [13:55:38.054] [server.Main] - Collection has been loaded from the database
+INFO [13:55:38.061] [server.Main] - Commands have been initialized
+INFO [13:55:38.072] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [13:55:59.078] [server.UDPServer] - Received header from client at /127.0.0.1:49499
+DEBUG [13:55:59.079] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:49499
+INFO [13:55:59.080] [server.UDPServer] - Received data from client at /127.0.0.1:49499
+INFO [13:55:59.118] [server.UDPServer] - Executing command: SHOW
+INFO [13:55:59.124] [server.UDPServer] - Sent header package
+INFO [13:55:59.131] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:49499
+INFO [13:56:13.038] [server.UDPServer] - Received header from client at /127.0.0.1:49499
+DEBUG [13:56:13.038] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:49499
+INFO [13:56:13.039] [server.UDPServer] - Received data from client at /127.0.0.1:49499
+INFO [13:56:13.044] [server.UDPServer] - Executing command: LOGIN
+INFO [13:56:15.171] [server.UDPServer] - Sent header package
+INFO [13:56:15.172] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:49499
+INFO [13:56:25.034] [server.UDPServer] - Received header from client at /127.0.0.1:49499
+DEBUG [13:56:25.035] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:49499
+INFO [13:56:25.035] [server.UDPServer] - Received data from client at /127.0.0.1:49499
+INFO [13:56:25.037] [server.UDPServer] - Executing command: SHOW
+INFO [13:56:42.515] [server.UDPServer] - Sent header package
+INFO [13:56:42.516] [server.UDPServer] - Sent response of 5 chunks to client at /127.0.0.1:49499
+INFO [14:12:18.001] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:12:20.463] [server.Main] - Collection has been loaded from the database
+INFO [14:12:20.470] [server.Main] - Commands have been initialized
+INFO [14:12:20.483] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [14:12:25.349] [server.UDPServer] - Received header from client at /127.0.0.1:39806
+INFO [14:12:25.349] [server.UDPServer] - Received header from client at /127.0.0.1:39806
+DEBUG [14:12:25.350] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:39806
+INFO [14:14:05.287] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:14:09.582] [server.Main] - Collection has been loaded from the database
+INFO [14:14:09.586] [server.Main] - Commands have been initialized
+INFO [14:14:09.597] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [14:14:13.324] [server.UDPServer] - Received header from client at /127.0.0.1:39806
+INFO [14:14:13.324] [server.UDPServer] - Received header from client at /127.0.0.1:39806
+DEBUG [14:14:13.326] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:39806
+INFO [14:15:21.059] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:15:23.516] [server.Main] - Collection has been loaded from the database
+INFO [14:15:23.521] [server.Main] - Commands have been initialized
+INFO [14:15:23.532] [server.UDPServer] - Server started on /127.0.0.1:9000
+DEBUG [14:15:36.301] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:15:36.302] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:15:36.302] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:15:36.301] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:15:36.302] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:15:36.303] [server.UDPServer] - Received header from client at /127.0.0.1:33673
+INFO [14:15:36.303] [server.UDPServer] - Received header from client at /127.0.0.1:33673
+DEBUG [14:15:36.303] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:15:36.303] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:33673
+DEBUG [14:15:36.302] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:15:36.303] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:18:40.732] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:18:44.422] [server.Main] - Collection has been loaded from the database
+INFO [14:18:44.429] [server.Main] - Commands have been initialized
+INFO [14:18:44.441] [server.UDPServer] - Server started on /127.0.0.1:9000
+DEBUG [14:18:48.873] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:18:48.873] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:18:48.873] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:18:48.874] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:18:48.875] [server.UDPServer] - Received header from client at /127.0.0.1:54041
+DEBUG [14:18:48.874] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:18:48.874] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:18:48.875] [server.UDPServer] - Received header from client at /127.0.0.1:54041
+DEBUG [14:18:48.875] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:18:48.876] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:18:48.876] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:54041
+INFO [14:19:38.895] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:19:41.339] [server.Main] - Collection has been loaded from the database
+INFO [14:19:41.342] [server.Main] - Commands have been initialized
+INFO [14:19:41.349] [server.UDPServer] - Server started on /127.0.0.1:9000
+DEBUG [14:19:50.802] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:19:50.804] [server.UDPServer] - Received header from client at /127.0.0.1:39911
+DEBUG [14:19:50.805] [server.UDPServer] - Expecting data of size 534 bytes from client at /127.0.0.1:39911
+INFO [14:19:50.807] [server.UDPServer] - Received data from client at /127.0.0.1:39911
+INFO [14:19:50.846] [server.UDPServer] - Executing command: SHOW
+INFO [14:19:50.853] [server.UDPServer] - Sent header package
+INFO [14:19:50.858] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:39911
+DEBUG [14:20:15.758] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:20:15.759] [server.UDPServer] - Received header from client at /127.0.0.1:39911
+DEBUG [14:20:15.760] [server.UDPServer] - Expecting data of size 681 bytes from client at /127.0.0.1:39911
+INFO [14:20:15.761] [server.UDPServer] - Received data from client at /127.0.0.1:39911
+INFO [14:20:15.766] [server.UDPServer] - Executing command: LOGIN
+INFO [14:20:17.392] [server.UDPServer] - Sent header package
+INFO [14:20:17.393] [server.UDPServer] - Sent response of 1 chunks to client at /127.0.0.1:39911
+INFO [14:24:23.240] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:24:26.011] [server.Main] - Collection has been loaded from the database
+INFO [14:24:26.017] [server.Main] - Commands have been initialized
+INFO [14:24:26.027] [server.UDPServer] - Server started on /127.0.0.1:9000
+DEBUG [14:24:33.803] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:24:33.804] [server.UDPServer] - Received header from client at /127.0.0.1:39911
+DEBUG [14:24:33.804] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:24:33.804] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+DEBUG [14:24:33.805] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:39911
+DEBUG [14:24:33.804] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:24:33.806] [server.UDPServer] - Received header from client at /127.0.0.1:39911
+DEBUG [14:24:33.805] [server.UDPServer] - TRYING TO READ HEADER DATA BABY
+INFO [14:30:38.758] [managers.SSHConnectionManager] - SSH tunnel created: helios.se.ifmo.ru:2222 -> localhost:5432
+INFO [14:30:41.217] [server.Main] - Collection has been loaded from the database
+INFO [14:30:41.223] [server.Main] - Commands have been initialized
+INFO [14:30:41.234] [server.UDPServer] - Server started on /127.0.0.1:9000
+INFO [14:30:45.860] [server.UDPServer] - Received header from client at /127.0.0.1:39911
+DEBUG [14:30:45.861] [server.UDPServer] - Expecting data of size 680 bytes from client at /127.0.0.1:39911
+INFO [14:30:45.864] [server.UDPServer] - Received data from client at /127.0.0.1:39911
+INFO [14:30:45.899] [server.UDPServer] - Executing command: SHOW
+INFO [14:30:48.609] [server.UDPServer] - Sent header package
+INFO [14:30:48.614] [server.UDPServer] - Sent response of 5 chunks to client at /127.0.0.1:39911
